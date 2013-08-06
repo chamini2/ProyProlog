@@ -75,9 +75,4 @@ tical,  diagonal principal  y diagonal secundaria),  se  realizan los siguientes
                 7) D = D' => se obtuvieron todas las diagonales NorOeste-> SurEste
              de la sopa.
 
-                Para el  caso de  las diagonales NorEste -> SurOeste, se aplica  el
-                mismo algoritmos  pero se inicia agregando al lado izquierdo 0 $'s
-                y del lado  derecho Tam-1 $'s. Luego  se van agregando a las filas
-                de abajo incrementando en 1 el  numero de $'s  de lado izquierdo y
-                decrementando  en  1  el  numero de  $'s del lado derecho por cada
-                vuelta.
+* Para el  caso de  las diagonales NorEste -> SurOeste, se aplica  el mismo algoritmos  pero se inicia agregando al lado izquierdo 0 $'s y del lado  derecho Tam-1 $'s. Luego  se van agregando a las filas de abajo incrementando en 1 el  numero de $'s  de lado izquierdo y decrementando en  1  el  numero de  $'s del lado derecho por cada vuelta.
